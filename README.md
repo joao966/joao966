@@ -8,3 +8,4 @@ Trabalho com a linguagem de programação JavaScript, com a linguagem de marcaç
 <p>Acesse meu perfil do Linkedin:<br> <a href="https://www.linkedin.com/in/jo%C3%A3o-oliveira-8a58a21b4/"><img width="30px" src="logotipo-do-linkedin.svg"/></a> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao966&theme=dark)](https://github.com/joao966/github-readme-stats)
+
