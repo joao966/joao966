@@ -18,6 +18,14 @@ Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender no
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat=square&logo=github&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 <hr style="width: 60px"/>
 
 ## Contato
