@@ -9,6 +9,7 @@ Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender no
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![next](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
 ![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
@@ -24,7 +25,6 @@ Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender no
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
-![next](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 <hr style="width: 60px"/>
 
