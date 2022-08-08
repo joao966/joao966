@@ -3,7 +3,7 @@ Olá, me chamo João Guilherme, sou desenvolvedor web ful-stack.
 
 Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
 
-## Trabalhei com as seguintes tecnologias:
+## Trabalho com as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
