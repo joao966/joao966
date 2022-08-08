@@ -1,4 +1,4 @@
-
+<hr style="width: 60px"/>
 Olá, me chamo João Guilherme, sou desenvolvedor web full-stack.
 
 Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
@@ -37,6 +37,3 @@ Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender no
   </div>
 
 <hr style="width: 60px"/>
-
-
-
