@@ -1,6 +1,4 @@
 
-# :nerd_face:
-
 Olá, me chamo João Guilherme, sou desenvolvedor web ful-stack.
 
 Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
@@ -25,7 +23,9 @@ Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender no
 ## Contato
 
   <div> 
-    <a href="https://www.linkedin.com/in/jo%C3%A3odeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/jo%C3%A3odeoliveira/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
   </div>
 
 <hr style="width: 60px"/>
