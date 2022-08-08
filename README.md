@@ -1,7 +1,34 @@
-<h1>SEJA BEM - VINDO(A) ME CHAMO JOÃO GUILHERME</h1>
 
-<p>Sou aluno de desenvolvimento web na Trybe.
-Trabalho com a linguagem de programação JavaScript, com a linguagem de marcação HTML5 e estilização com CSS3. Utilizo bibliotecas como React, Jest, Redux entre outras.</p> 
+# :nerd_face:
 
-<img src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif"/>
+Olá, me chamo João Guilherme, sou desenvolvedor web ful-stack.
+
+Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
+
+## Tenho conhecimentos sobre as seguintes tecnologias:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node.js&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat=square&logo=github&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
+<hr style="width: 60px"/>
+
+## Contato
+
+  <div> 
+    <a href="[https://www.linkedin.com/in/tfeliperibeiro](https://www.linkedin.com/in/jo%C3%A3odeoliveira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
+<hr style="width: 60px"/>
+
+
 
