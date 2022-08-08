@@ -1,5 +1,5 @@
 
-Olá, me chamo João Guilherme, sou desenvolvedor web ful-stack.
+Olá, me chamo João Guilherme, sou desenvolvedor web full-stack.
 
 Já tive contato com C, Python e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
 
