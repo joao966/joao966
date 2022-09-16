@@ -29,11 +29,9 @@ Já tive contato com as linguagens de programação C, Python e JavaScript, esto
 <hr style="width: 60px"/>
 
 ## Contato
-
   <div> 
     <a href="https://www.linkedin.com/in/jo%C3%A3odeoliveira/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
   </div>
-
 <hr style="width: 60px"/>
