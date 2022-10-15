@@ -27,7 +27,7 @@ Já tive contato com as linguagens de programação C, Python, TypeScript e Java
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 <hr style="width: 60px"/>
 
-## Contato
+## Contato:
   <div> 
     <a href="https://www.linkedin.com/in/jo%C3%A3odeoliveira/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
