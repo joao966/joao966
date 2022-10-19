@@ -1,7 +1,7 @@
 <hr style="width: 60px"/>
 Olá, me chamo João Guilherme, sou desenvolvedor web full-stack!
 
-Já tive contato com as linguagens de programação C, Python, TypeScript e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação!
+Já tive contato com as linguagens de programação C, Python, Java, TypeScript e JavaScript, estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação!
 
 ## Trabalho com as seguintes tecnologias:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
