@@ -29,6 +29,9 @@ Já tive contato com as linguagens de programação C, Python, TypeScript e Java
 
 ## Contato:
   <div> 
+    <span>
+      EMAIL: joaooliveira966@gmail.com
+    </span>
     <a href="https://www.linkedin.com/in/jo%C3%A3odeoliveira/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
